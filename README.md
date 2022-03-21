@@ -1,23 +1,35 @@
-# package_name
+# Descomplicando-a-cria-o-de-pacotes-de-processamento-de-imagens-em-Python
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+# Descrição
+. 
 
-## Installation
+O pacote package_name é usado para:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+## Instalação
+
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar package_name
 
 ```bash
 pip install package_name
 ```
 
-## Usage
+## Uso
 
 ```python
 from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-# Descomplicando-a-cria-o-de-pacotes-de-processamento-de-imagens-em-Python
+
+<p align="center">
+  <a href="https://github.com/rodolfobredoff" target="_blank">Autor</a>
+</p>
+
+<br>
+
+
+
+
+## :memo: Licença ##
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
